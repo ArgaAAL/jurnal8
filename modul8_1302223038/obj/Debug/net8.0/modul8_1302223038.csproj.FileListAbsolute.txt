@@ -1,0 +1,15 @@
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\bin\Debug\net8.0\modul8_1302223038.exe
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\bin\Debug\net8.0\modul8_1302223038.deps.json
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\bin\Debug\net8.0\modul8_1302223038.runtimeconfig.json
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\bin\Debug\net8.0\modul8_1302223038.dll
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\bin\Debug\net8.0\modul8_1302223038.pdb
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.GeneratedMSBuildEditorConfig.editorconfig
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.AssemblyInfoInputs.cache
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.AssemblyInfo.cs
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.csproj.CoreCompileInputs.cache
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.sourcelink.json
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.dll
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\refint\modul8_1302223038.dll
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.pdb
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\modul8_1302223038.genruntimeconfig.cache
+D:\AAL\Coding\C#\Jurnal8\modul8_1302223038\modul8_1302223038\obj\Debug\net8.0\ref\modul8_1302223038.dll
